@@ -6,7 +6,6 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [
     react(), 
-    tailwindcss(),
-     base: '/React-learning-project/Food-recipeCard-project-Day2/'
-  ],
+    tailwindcss()  ],
+   base: '/React-learning-project/Food-recipeCard-project-Day2/'
 });

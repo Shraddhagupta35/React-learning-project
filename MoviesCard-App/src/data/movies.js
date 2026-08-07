@@ -1,0 +1,58 @@
+const movies = [
+  {
+    id: 1,
+    title: "Avengers Endgame",
+    rating: 4.9,
+    genre: "Action",
+    year: 2019,
+    duration: "181 min",
+    image: "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+  },
+  {
+    id: 2,
+    title: "Spider-Man: No Way Home",
+    rating: 4.8,
+    genre: "Action",
+    year: 2020,
+    duration: "120 min",
+    image: "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  },
+  {
+    id: 3,
+    title: "Interstellar",
+    rating: 4.9,
+    genre: "Sci-Fi",
+    year: 2012,
+    duration: "130 min",
+    image: "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+  },
+  {
+    id: 4,
+    title: "Joker",
+    rating: 4.7,
+    genre: "Drama",
+    year: 2021,
+    duration: "140 min",
+    image: "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  },
+  {
+    id: 5,
+    title: "The Batman",
+    rating: 4.6,
+    genre: "Action",
+    year: 2022,
+    duration: "180 min",
+    image: "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+  },
+  {
+    id: 6,
+    title: "Black Panther",
+    rating: 4.5,
+    genre: "Adventure",
+    year: "2024",
+    duration: "200 min",
+    image: "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+  },
+];
+
+export default movies;

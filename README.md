@@ -4,10 +4,10 @@ A collection of my React projects built while learning and practicing different 
 
 ## 🚀 All Projects – Live Links
 
-### 🍽️ 1. Food Recipe Card – Day 2
+### 🍽️ 1. Food Recipe Card – Day 2 props based
 🔗 [Live Demo](https://gleaming-choux-240857.netlify.app/)
 
-### 🎬 2. Movies Card App
+### 🎬 2. Movies Card App props based
 🔗 [Live Demo](https://melodious-fudge-1c4ef4.netlify.app/)
 
 ### ❤️ 3. Favorite Card – useState

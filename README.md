@@ -11,4 +11,4 @@ A collection of my React projects built while learning and practicing different 
 🔗 [Live Demo](https://melodious-fudge-1c4ef4.netlify.app/)
 
 ### ❤️ 3. Favorite Card – useState
-🔗 Coming Soon 🚀
+🔗 Coming Soon 🔜 🚀
